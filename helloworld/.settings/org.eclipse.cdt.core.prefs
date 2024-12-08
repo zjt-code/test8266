@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/0.199405605/BATCH_BUILD/delimiter=;
+environment/project/0.199405605/BATCH_BUILD/operation=append
+environment/project/0.199405605/BATCH_BUILD/value=1
+environment/project/0.199405605/IDF_PATH/delimiter=;
+environment/project/0.199405605/IDF_PATH/operation=replace
+environment/project/0.199405605/IDF_PATH/value=d\:\\esp8266\\ESP8266_RTOS_SDK
+environment/project/0.199405605/PATH/delimiter=;
+environment/project/0.199405605/PATH/operation=replace
+environment/project/0.199405605/PATH/value=d\:\\msys32\\msys32\\usr\\bin;d\:\\msys32\\msys32\\mingw32\\bin;d\:\\msys32\\msys32\\opt\\xtensa-lx106-elf\\bin
+environment/project/0.199405605/append=true
+environment/project/0.199405605/appendContributed=true
